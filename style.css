@@ -16,11 +16,12 @@ nav {
   align-items: center;
   justify-content: space-between;
   padding: 0 10px;
+  margin: 0px 10px;
   /* border: 1px solid blue; */
 }
 
 .nav-esquerda {
-  width: 5%;
+  width: 4%;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -36,9 +37,10 @@ nav {
 }
 
 .google-img {
-  width: 200px;
+  width: 300px;
   height: auto;
   margin: 20px auto;
+  margin-top: 5%;
   display: block;
 }
 
